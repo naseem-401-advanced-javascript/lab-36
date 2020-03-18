@@ -1,0 +1,38 @@
+{
+  "name": "lab-36",
+  "version": "1.0.0",
+  "description": "## Application State with Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "lint": "eslint '**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naseem-401-advanced-javascript/lab-36.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naseem-401-advanced-javascript/lab-36/issues"
+  },
+  "homepage": "https://github.com/naseem-401-advanced-javascript/lab-36#readme",
+  "dependencies": {
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "eslint": "^6.8.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-jsonschema-form": "^1.8.1",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.4.0",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-mock-store": "^1.5.4",
+    "superagent": "^5.2.2"
+  }
+}
